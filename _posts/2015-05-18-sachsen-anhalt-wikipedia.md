@@ -6,9 +6,9 @@ publisher:
   name: Wikipedia
   url: "https://de.m.wikipedia.org"
 title: Sachsen-Anhalt - Wikipedia
-starred: false
-datePublished: "2015-05-18T01:50:50.964Z"
-dateModified: "2015-05-18T02:07:02.198Z"
+starred: true
+datePublished: "2015-05-18T02:51:51.737Z"
+dateModified: "2015-05-18T02:51:51.737Z"
 sourcePath: _posts/2015-05-18-sachsen-anhalt-wikipedia.md
 published: true
 _context: "http://schema.org"
