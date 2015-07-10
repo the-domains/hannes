@@ -45,7 +45,7 @@ app_links: []
 isBasedOnUrl: 'https://twitter.com/cyrilmottier/status/618036698556071936'
 datePublished: '2015-07-07T15:43:27.584Z'
 title: ''
-dateModified: '2015-07-10T13:13:31.403Z'
+dateModified: '2015-07-10T18:46:44.852Z'
 sourcePath: _posts/2015-07-07-android-this-is-not-for-normal-apps-using-it-correctly-re.md
 published: true
 _type: Comment
