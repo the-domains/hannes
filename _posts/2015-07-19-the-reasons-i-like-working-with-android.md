@@ -1,28 +1,20 @@
 ---
-isBasedOnUrl: null
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-dateModified: '2015-07-20T13:36:16.954Z'
-datePublished: '2015-07-19T10:51:38.226Z'
-title: The reasons I like working with Android
-tags:
-  - ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2015-07-28T17:18:56.550Z'
+datePublished: '2015-07-19T10:51:38.226Z'
+keywords: []
+publisher: {}
+title: The reasons I like working with Android
+starred: false
 sourcePath: _posts/2015-07-19-the-reasons-i-like-working-with-android.md
 published: true
 url: the-reasons-i-like-working-with-android/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
 # The reasons I like working with Android
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc4f347-456a-4575-9dae-3f03b8407aeb.jpg)
 
 ## The tools
 
