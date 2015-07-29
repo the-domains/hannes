@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/hannes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 17:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 13:29:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hannes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,13 +13,6 @@
             <link>https://twitter.com/TheOnion/status/622035571179851776</link>
             <guid isPermaLink="false">58e10388-0cb9-433d-929b-dba67fd5cf5e</guid>
             <pubDate>Tue, 28 Jul 2015 17:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The reasons I like working with Android]]></title>
-            <description><![CDATA[<article><h1>The reasons I like working with Android</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc4f347-456a-4575-9dae-3f03b8407aeb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hannes/the-reasons-i-like-working-with-android/index.html</link>
-            <guid isPermaLink="false">4135dfda-b2da-4a2b-84ff-d2683cc71605</guid>
-            <pubDate>Sun, 19 Jul 2015 10:51:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
