@@ -1,4 +1,4 @@
-name: null
+name: Hannes
 favicon: null
 layout_spectrum: 0.49865
 typography_spectrum: 0.48571
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#b6e5f5'
-    - '#9b9a95'
-    - '#f7ffff'
-    - '#664939'
-  brandStrength: 0
+    - '#010101'
+    - '#6a3412'
+    - '#ab5024'
+    - '#4c753d'
+    - '#c1a073'
+  brandStrength: 1
   lightness: 0.0625
   saturation: 0.5625
   rhythmicContrast: 0.75
