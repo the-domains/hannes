@@ -5,7 +5,7 @@
         <description><![CDATA[Hannes]]></description>
         <link>https://thegrid.ai/hannes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 17:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 17:21:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hannes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Fleisch.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68af02dc-2166-4e9b-92d6-143e20946394.jpg"></article>]]></description>
             <guid isPermaLink="false">c1430d80-15ef-4689-b6a3-32ec667d1b1f</guid>
             <pubDate>Tue, 30 Jun 2015 14:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eichhörnchen]]></title>
+            <description><![CDATA[<article><h1>Eichhörnchen</h1><p>In seinem Körperbau ist das Eichhörnchen an eine baumbewohnende und kletternde Lebensweise angepasst. Es hat ein Gewicht von etwa 200 bis 400 Gramm. Die Kopfrumpflänge beträgt 20 bis 25 cm. Der zweizeilig behaarte, buschige Schwanz ist 15 bis 20 cm lang. Er dient beim Klettern als Balancierhilfe und beim Springen als Steuerruder.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sciurus_vulgaris_04_MWNH_579.jpg/220px-Sciurus_vulgaris_04_MWNH_579.jpg"></article>]]></description>
+            <link>https://de.m.wikipedia.org/wiki/Eichh%C3%B6rnchen</link>
+            <guid isPermaLink="false">b3e1974f-6c2b-411a-bebc-acee843f1f68</guid>
+            <pubDate>Mon, 13 Jul 2015 15:11:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -62,13 +69,6 @@
             <link>https://thegrid.ai/hannes/ill-try-to-make-this-edited/index.html</link>
             <guid isPermaLink="false">593d75ec-ce96-4ff5-8d91-58db7444718d</guid>
             <pubDate>Mon, 03 Aug 2015 13:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I heard you like cheese.]]></title>
-            <description><![CDATA[<article><h1>I heard you like cheese.</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11357830_492011870959379_1385507156_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/4SSWYAnbz7/</link>
-            <guid isPermaLink="false">daabd5d3-baf9-4a28-818f-01ebc454a266</guid>
-            <pubDate>Tue, 23 Jun 2015 20:53:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
