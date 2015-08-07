@@ -23,6 +23,6 @@ color:
     - '#c1a073'
   brandStrength: 1
   lightness: 0.5
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
