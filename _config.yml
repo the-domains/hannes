@@ -8,7 +8,7 @@ color:
     - '#fdfefe'
   brandStrength: 1
   lightness: 0.839062
-  rhythmicContrast: 0.45625
+  rhythmicContrast: 0
   saturation: 0.498437
 cta: {}
 name: Hannes
