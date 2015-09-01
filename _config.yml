@@ -1,19 +1,43 @@
+layout_spectrum: 0.1765957
+name: Hannes
+purpose:
+  - {}
 analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    filter:
+      notType:
+        type: WebPage
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+cta: {}
 color:
+  brandStrength: 0.275
+  saturation: 0.781531
   brandColors:
     - '#CDCD9C'
     - '#5A6229'
     - '#8B9462'
     - '#E64131'
     - '#EE6A52'
-  brandStrength: 0.275
   lightness: 0.259375
   rhythmicContrast: 0.526562
-  saturation: 0.781531
-cta: {}
-layout_spectrum: 0.923437
-name: Hannes
-opengraph: {}
-purpose:
-  - {}
 typography_spectrum: 0.789772
