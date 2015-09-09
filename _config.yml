@@ -1,19 +1,19 @@
 analytics: {}
 color:
   brandColors:
-    - '#CDCD9C'
-    - '#5A6229'
-    - '#8B9462'
-    - '#E64131'
-    - '#EE6A52'
-  brandStrength: 0.7875
-  lightness: 0.446875
-  rhythmicContrast: 0.634375
-  saturation: 0.209375
+    - '#BDBDBD'
+    - '#101829'
+    - '#AC627B'
+    - '#486BB7'
+    - '#000000'
+  brandStrength: 0.385135
+  lightness: 0.131756
+  rhythmicContrast: 0.820945
+  saturation: 0.758445
 cta: {}
-layout_spectrum: 0.382812
+layout_spectrum: 0.464527
 name: Hannes
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 0.789772
+typography_spectrum: 0.400337
