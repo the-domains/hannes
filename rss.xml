@@ -5,7 +5,7 @@
         <description><![CDATA[Hannes]]></description>
         <link>https://thegrid.ai/hannes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Sep 2015 14:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 18:37:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hannes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I heard you like cheese.]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<article><h1>Fleisch.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68af02dc-2166-4e9b-92d6-143e20946394.jpg"></article>]]></description>
             <guid isPermaLink="false">c1430d80-15ef-4689-b6a3-32ec667d1b1f</guid>
             <pubDate>Tue, 30 Jun 2015 14:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Awwwww! ]]></title>
+            <description><![CDATA[<article><h1>Awwwww! </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad82fea7-3986-4f30-af0b-3babf874779b.jpg"></article>]]></description>
+            <guid isPermaLink="false">a1d652bd-3d7c-421e-864d-2f90b60fd269</guid>
+            <pubDate>Mon, 14 Sep 2015 18:37:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +73,6 @@
             <link>https://de.m.wikipedia.org/wiki/Eichh%C3%B6rnchen</link>
             <guid isPermaLink="false">b3e1974f-6c2b-411a-bebc-acee843f1f68</guid>
             <pubDate>Mon, 13 Jul 2015 15:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Nation&apos;s Strangers Decry Negative Portrayal Among Children http&colon;&sol;&sol;onion&period;com&sol;1e3AJjc" src="https://pbs.twimg.com/media/CKEZ1S_UEAAv0X9.jpg:large">]]></description>
-            <link>https://twitter.com/TheOnion/status/622035571179851776</link>
-            <guid isPermaLink="false">58e10388-0cb9-433d-929b-dba67fd5cf5e</guid>
-            <pubDate>Tue, 28 Jul 2015 17:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
