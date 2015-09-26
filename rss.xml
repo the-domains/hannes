@@ -5,7 +5,7 @@
         <description><![CDATA[Hannes]]></description>
         <link>https://thegrid.ai/hannes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 08:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 08:09:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hannes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I heard you like cheese.]]></title>
@@ -21,10 +21,11 @@
             <pubDate>Tue, 30 Jun 2015 14:28:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Everybody step back </p>]]></description>
+            <title><![CDATA[The Best Regex Trick]]></title>
+            <description><![CDATA[<article><h1>The Best Regex Trick</h1><p>Everybody step back </p><img src="http://a.yu8.us/c_mastering-regex.jpg"></article>]]></description>
+            <link>http://www.rexegg.com/regex-best-trick.html</link>
             <guid isPermaLink="false">e34e0e38-63f0-47cb-966f-6aa2e8b9e281</guid>
-            <pubDate>Sat, 26 Sep 2015 08:07:59 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2015 08:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
