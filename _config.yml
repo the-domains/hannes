@@ -1,4 +1,19 @@
-analytics: {}
+name: Hannes
+favicon: null
+layout_spectrum: 0.65646
+typography_spectrum: 0.400337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#BDBDBD'
@@ -8,12 +23,9 @@ color:
     - '#000000'
   brandStrength: 0.385135
   lightness: 0.178125
-  rhythmicContrast: 0.820945
   saturation: 0.758445
-cta: {}
-layout_spectrum: 0.464527
-name: Hannes
-opengraph: {}
+  rhythmicContrast: 0.820945
 purpose:
-  - {}
-typography_spectrum: 0.400337
+  - name: null
+    item: null
+    url: null
