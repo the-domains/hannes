@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-02T14:39:09.615Z'
-dateModified: '2015-12-02T14:39:02.623Z'
+datePublished: '2015-12-02T14:47:37.215Z'
+dateModified: '2015-12-02T14:47:33.248Z'
 title: Staying sane and on top of GitHub Notifications
 author: []
 sourcePath: _posts/2015-12-02-staying-sane-and-on-top-of-github-notifications.md
