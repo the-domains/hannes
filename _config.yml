@@ -17,9 +17,6 @@ name: Hannes
 cta: {}
 style: the-composer
 navigation:
-  - name: Coffee & Space
-    url: 'http://coffeeandspace.com'
-    type: external
   - name: My main website
     url: 'http://hannesstruss.de'
     type: external
