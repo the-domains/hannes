@@ -16,5 +16,9 @@ analytics: {}
 name: Hannes
 cta: {}
 style: the-composer
+navigation:
+  - name: Coffee & Space
+    url: 'http://coffeeandspace.com'
+    type: external
 purpose:
   - {}
