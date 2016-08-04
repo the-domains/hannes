@@ -23,9 +23,6 @@ navigation:
   - name: My other drawings website
     url: 'http://hannesstruss.de/zeichnungen'
     type: external
-  - name: I heard you like chee9se.
-    id: daabd5d3-baf9-4a28-818f-01ebc454a266
-    type: content
   - name: Wahnsinn
     url: 'http://nice.cool'
     type: external
