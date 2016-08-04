@@ -29,5 +29,8 @@ navigation:
   - name: Wahnsinn
     url: 'http://nice.cool'
     type: external
+  - name: sfdsf
+    url: sdf
+    type: external
 purpose:
   - {}
