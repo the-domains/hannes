@@ -19,11 +19,11 @@ purpose:
   - {}
 style: the-composer
 navigation:
-  - name: a
-    url: a
-    type: external
   - name: My main website?
     url: 'http://hannesstruss.de'
+    type: external
+  - name: a
+    url: a
     type: external
   - name: My other drawings website
     url: 'http://hannesstruss.de/zeichnungen'
