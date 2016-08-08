@@ -1,4 +1,9 @@
+name: Hannes
+layout_spectrum: 0.92919
 typography_spectrum: 1
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#001D1F'
@@ -8,13 +13,10 @@ color:
     - '#2F5D5D'
   brandStrength: 0
   lightness: 0.495614
-  rhythmicContrast: 0
   saturation: 0.375
-opengraph: {}
-layout_spectrum: 0.92919
-analytics: {}
-name: Hannes
-cta: {}
+  rhythmicContrast: 0
+purpose:
+  - {}
 style: the-composer
 navigation:
   - name: My main website?
@@ -26,5 +28,6 @@ navigation:
   - name: Wahnsinn
     url: 'http://nice.cool'
     type: external
-purpose:
-  - {}
+  - name: a
+    url: a
+    type: external
