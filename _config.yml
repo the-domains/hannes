@@ -28,11 +28,11 @@ navigation:
   - name: c
     url: c
     type: external
-  - name: d
-    url: d
-    type: external
   - name: e
     url: e
+    type: external
+  - name: d
+    url: d
     type: external
   - name: f
     url: f
