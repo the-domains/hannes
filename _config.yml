@@ -22,11 +22,11 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: e
-    url: e
-    type: external
   - name: b
     url: b
+    type: external
+  - name: e
+    url: e
     type: external
   - name: f
     url: f
