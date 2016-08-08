@@ -19,9 +19,6 @@ purpose:
   - {}
 style: the-composer
 navigation:
-  - name: Wahnsinn
-    url: 'http://nice.cool'
-    type: external
   - name: a
     url: a
     type: external
