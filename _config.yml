@@ -40,3 +40,6 @@ navigation:
   - name: e
     url: e
     type: external
+  - name: f
+    url: f
+    type: external
