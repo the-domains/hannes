@@ -22,14 +22,14 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: d
-    url: d
-    type: external
   - name: b
     url: b
     type: external
   - name: c
     url: c
+    type: external
+  - name: d
+    url: d
     type: external
   - name: e
     url: e
