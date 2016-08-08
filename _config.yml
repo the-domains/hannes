@@ -34,3 +34,6 @@ navigation:
   - name: b
     url: b
     type: external
+  - name: c
+    url: c
+    type: external
