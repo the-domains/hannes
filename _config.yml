@@ -19,14 +19,14 @@ purpose:
   - {}
 style: the-composer
 navigation:
+  - name: e
+    url: e
+    type: external
   - name: a
     url: a
     type: external
   - name: b
     url: b
-    type: external
-  - name: e
-    url: e
     type: external
   - name: f
     url: f
