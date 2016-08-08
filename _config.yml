@@ -22,11 +22,11 @@ navigation:
   - name: My main website?
     url: 'http://hannesstruss.de'
     type: external
-  - name: a
-    url: a
-    type: external
   - name: My other drawings website
     url: 'http://hannesstruss.de/zeichnungen'
+    type: external
+  - name: a
+    url: a
     type: external
   - name: Wahnsinn
     url: 'http://nice.cool'
