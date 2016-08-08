@@ -25,6 +25,9 @@ navigation:
   - name: b
     url: b
     type: external
+  - name: f
+    url: f
+    type: external
   - name: c
     url: c
     type: external
@@ -33,7 +36,4 @@ navigation:
     type: external
   - name: e
     url: e
-    type: external
-  - name: f
-    url: f
     type: external
