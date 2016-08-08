@@ -17,6 +17,9 @@ name: Hannes
 cta: {}
 style: the-composer
 navigation:
+  - name: c
+    url: c
+    type: external
   - name: f
     url: f
     type: external
@@ -28,9 +31,6 @@ navigation:
     type: external
   - name: b
     url: b
-    type: external
-  - name: c
-    url: c
     type: external
 purpose:
   - {}
