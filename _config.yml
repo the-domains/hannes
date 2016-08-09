@@ -19,6 +19,9 @@ purpose:
   - {}
 style: the-composer
 navigation:
+  - name: xnxnx
+    id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
+    type: content
   - name: e
     url: e
     type: external
@@ -46,6 +49,3 @@ navigation:
   - name: xjxjxjxjd
     url: dhdhd
     type: external
-  - name: xnxnx
-    id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
-    type: content
