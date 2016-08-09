@@ -25,12 +25,12 @@ navigation:
   - name: b
     url: b
     type: external
+  - name: f
+    url: f
+    type: external
   - name: a
     url: a
     type: external
   - name: c
     url: c
-    type: external
-  - name: f
-    url: f
     type: external
