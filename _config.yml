@@ -28,11 +28,11 @@ navigation:
   - name: rururirjr
     url: dnxnxj
     type: external
-  - name: c
-    url: c
-    type: external
   - name: e
     url: e
+    type: external
+  - name: c
+    url: c
     type: external
   - name: b
     url: b
