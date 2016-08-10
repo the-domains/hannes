@@ -22,14 +22,14 @@ navigation:
   - name: e
     url: e
     type: external
-  - name: rururirjr
-    url: dnxnxj
-    type: external
   - name: f
     url: f
     type: external
   - name: a
     url: a
+    type: external
+  - name: rururirjr
+    url: dnxnxj
     type: external
   - name: c
     url: c
