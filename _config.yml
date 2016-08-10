@@ -19,14 +19,14 @@ purpose:
   - {}
 style: the-composer
 navigation:
-  - name: rururirjr
-    url: dnxnxj
-    type: external
   - name: a
     url: a
     type: external
   - name: e
     url: e
+    type: external
+  - name: rururirjr
+    url: dnxnxj
     type: external
   - name: f
     url: f
