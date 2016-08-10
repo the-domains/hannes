@@ -25,11 +25,11 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: c
-    url: c
-    type: external
   - name: rururirjr
     url: dnxnxj
+    type: external
+  - name: c
+    url: c
     type: external
   - name: e
     url: e
