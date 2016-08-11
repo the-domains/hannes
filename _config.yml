@@ -22,14 +22,14 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: rururirjr
-    url: dnxnxj
-    type: external
   - name: ''
     id: 7438a728-6c94-4856-8d73-f0a50b267fac
     type: content
   - name: b
     url: b
+    type: external
+  - name: rururirjr
+    url: dnxnxj
     type: external
   - name: f
     url: f
