@@ -19,36 +19,36 @@ purpose:
   - {}
 style: the-composer
 navigation:
-  - name: e
-    url: e
-    type: external
-  - name: f
-    url: f
+  - name: a
+    url: a
     type: external
   - name: rururirjr
     url: dnxnxj
     type: external
-  - name: a
-    url: a
-    type: external
-  - name: c
-    url: c
-    type: external
+  - name: ''
+    id: 7438a728-6c94-4856-8d73-f0a50b267fac
+    type: content
   - name: b
     url: b
+    type: external
+  - name: f
+    url: f
+    type: external
+  - name: toll
+    id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
+    type: content
+  - name: c
+    url: c
     type: external
   - name: xnxnx
     id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
     type: content
-  - name: cooooool
-    id: 7438a728-6c94-4856-8d73-f0a50b267fac
-    type: content
-  - name: toll
-    id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
-    type: content
+  - name: e
+    url: e
+    type: external
   - name: xjxjxjxjd
     url: dhdhd
     type: external
-  - name: ''
+  - name: cooooool
     id: 7438a728-6c94-4856-8d73-f0a50b267fac
     type: content
