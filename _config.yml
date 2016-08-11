@@ -55,3 +55,6 @@ navigation:
   - name: h
     url: h
     type: external
+  - name: bbb
+    url: gvb
+    type: external
