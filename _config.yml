@@ -52,3 +52,6 @@ navigation:
   - name: cooooool
     id: 7438a728-6c94-4856-8d73-f0a50b267fac
     type: content
+  - name: h
+    url: h
+    type: external
