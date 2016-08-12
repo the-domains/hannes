@@ -20,7 +20,7 @@ navigation:
   - name: a
     url: h
     type: external
-  - name: bbb
+  - name: b
     url: gvb
     type: external
   - name: yo dude
