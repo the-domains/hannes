@@ -1,9 +1,4 @@
-name: Hannes
-layout_spectrum: 0.92919
 typography_spectrum: 1
-cta: {}
-analytics: {}
-opengraph: {}
 color:
   brandColors:
     - '#001D1F'
@@ -15,19 +10,24 @@ color:
   lightness: 0.495614
   saturation: 0.375
   rhythmicContrast: 0
-purpose:
-  - {}
+opengraph: {}
+layout_spectrum: 0.92919
+analytics: {}
+name: Hannes
+cta: {}
 style: the-composer
 navigation:
-  - name: a
+  - name: aa
     url: h
     type: external
   - name: b
     url: gvb
     type: external
-  - name: c
-    url: c
-    type: external
+  - name: yo dude
+    id: 1cf4d8c7-2d98-4293-907d-d7ddd17b2aa0
+    type: content
   - name: d
     url: dhdhd
     type: external
+purpose:
+  - {}
