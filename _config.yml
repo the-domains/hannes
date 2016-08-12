@@ -19,6 +19,9 @@ purpose:
   - {}
 style: the-composer
 navigation:
+  - name: d
+    url: dhdhd
+    type: external
   - name: a
     url: a
     type: external
@@ -27,7 +30,4 @@ navigation:
     type: external
   - name: c
     url: c
-    type: external
-  - name: d
-    url: dhdhd
     type: external
