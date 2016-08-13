@@ -21,12 +21,12 @@ navigation:
   - name: c
     url: c
     type: external
+  - name: d
+    url: dhdhd
+    type: external
   - name: a
     url: a
     type: external
   - name: b
     url: gvb
-    type: external
-  - name: d
-    url: dhdhd
     type: external
