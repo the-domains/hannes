@@ -15,18 +15,17 @@ color:
   lightness: 0.495614
   saturation: 0.375
   rhythmicContrast: 0
-purpose:
-  - {}
+purpose: []
 style: the-composer
 navigation:
   - name: b
     url: gvb
     type: external
-  - name: a
-    url: a
-    type: external
   - name: c
     url: c
+    type: external
+  - name: a
+    url: a
     type: external
   - name: d
     url: dhdhd
