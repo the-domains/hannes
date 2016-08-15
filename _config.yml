@@ -18,6 +18,9 @@ color:
 purpose: []
 style: the-composer
 navigation:
+  - name: a
+    url: a
+    type: external
   - name: b
     url: gvb
     type: external
@@ -26,7 +29,4 @@ navigation:
     type: external
   - name: d
     url: dhdhd
-    type: external
-  - name: a
-    url: a
     type: external
