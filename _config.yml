@@ -18,9 +18,6 @@ color:
 purpose: []
 style: the-composer
 navigation:
-  - name: a
-    url: a
-    type: external
   - name: b
     url: gvb
     type: external
@@ -30,6 +27,12 @@ navigation:
   - name: d
     url: dhdhd
     type: external
+  - name: a
+    url: a
+    type: external
   - name: e
     url: e
     type: external
+  - name: tite
+    id: daabd5d3-baf9-4a28-818f-01ebc454a266
+    type: content
