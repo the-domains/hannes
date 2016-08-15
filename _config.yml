@@ -33,6 +33,3 @@ navigation:
   - name: e
     url: e
     type: external
-  - name: tite
-    id: daabd5d3-baf9-4a28-818f-01ebc454a266
-    type: content
