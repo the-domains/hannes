@@ -30,3 +30,6 @@ navigation:
   - name: d
     url: dhdhd
     type: external
+  - name: e
+    url: e
+    type: external
