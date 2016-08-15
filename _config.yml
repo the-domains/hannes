@@ -30,6 +30,3 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: e
-    url: e
-    type: external
