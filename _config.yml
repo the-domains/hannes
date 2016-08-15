@@ -24,18 +24,9 @@ navigation:
   - name: b
     url: gvb
     type: external
-  - name: d
-    url: dhdhd
-    type: external
   - name: c
     url: c
     type: external
-  - name: dn
-    url: hbb
-    type: external
-  - name: dn
-    url: hbb
-    type: external
-  - name: dn
-    url: hbb
+  - name: d
+    url: dhdhd
     type: external
