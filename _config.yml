@@ -21,11 +21,11 @@ navigation:
   - name: a
     url: a
     type: external
-  - name: b
-    url: gvb
-    type: external
-  - name: c
+  - name: geil
     url: c
+    type: external
+  - name: wow
+    url: gvb
     type: external
   - name: d
     url: dhdhd
