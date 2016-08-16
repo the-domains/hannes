@@ -4,7 +4,7 @@
         <description><![CDATA[Hannes]]></description>
         <link>http://grid.hannesstruss.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 15:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 15:42:31 GMT</lastBuildDate>
         <atom:link href="http://grid.hannesstruss.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stay on top of your notifications!]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Fleisch.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8438146c6564f6649591fc7508576cea212b1beb.jpg"></article>]]></description>
             <guid isPermaLink="false">c1430d80-15ef-4689-b6a3-32ec667d1b1f</guid>
             <pubDate>Tue, 30 Jun 2015 14:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apps are faltering. But progressive web apps seem pretty legit.]]></title>
+            <description><![CDATA[<article><h1>Apps are faltering. But progressive web apps seem pretty legit.</h1><p>Lately there's been considerable debate about the future of native apps, ranging from the cooling of downloads to the dubious utility of instant apps and assumptions about progressive web apps as heir apparent to native apps. It's anyone's guess what the next few years will yield, but it brings to mind pg.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5764f83177c27abe632d7dce03e55e6d/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*f7gpfegwe5jhpYs_1R_neA.jpeg"></article>]]></description>
+            <link>https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd#.pfe5bzmc4</link>
+            <guid isPermaLink="false">a792ba35-9c2e-4af5-887e-806939555d6a</guid>
+            <pubDate>Tue, 16 Aug 2016 15:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nice]]></title>
